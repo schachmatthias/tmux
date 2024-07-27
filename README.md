@@ -17,5 +17,4 @@ Restore session with `prefix + strg + r`
 
 ## Currently used theme in config file:
 
-file:///home/matthias/Pictures/Screenshots/Screenshot%20from%202024-07-27%2018-51-05.png
-
+![Screenshot from 2024-07-27 18-51-05](https://github.com/user-attachments/assets/11a860df-9ed5-4c13-af31-f011d0a257f1)
