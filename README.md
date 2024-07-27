@@ -17,4 +17,5 @@ Restore session with `prefix + strg + r`
 
 ## Currently used theme in config file:
 
-![cyan](https://github.com/user-attachments/assets/186a6647-a0f1-4511-a0b0-a0126a620f87)
+file:///home/matthias/Pictures/Screenshots/Screenshot%20from%202024-07-27%2018-51-05.png
+
